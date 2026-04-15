@@ -46,7 +46,7 @@ Step-by-Step Execution
 
 ## 6. Product Link / Demo 
 • GitHub Repository: https://github.com/YiChen007ICY/ACC102-Stock-Financial-Health-Agent   
-• Demo: The notebook includes full, reproducible output with raw data, calculated ratios, and visualization charts. A 1-3 minute demo video is available in the submission package, showing the full execution workflow and key analysis conclusions.    
+• Demo: The notebook includes full, reproducible output with raw data, calculated ratios, and visualization charts. A demo video is available in the submission package, showing the full execution workflow and key analysis conclusions.    
 
 ## 7. Limitations & Next Steps 
 Limitations   
