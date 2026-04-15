@@ -30,7 +30,8 @@ The project follows a complete end-to-end data analysis workflow implemented in 
 ## 5. How to Run 
 Environment Requirements   
 • Python 3.8+   
-• Required libraries: pandas, matplotlib    
+• Required libraries: pandas, matplotlib   
+
 Step-by-Step Execution   
 1. Install dependencies: pip install pandas matplotlib  
 2. Open the main notebook ACC102_Financial_Analysis.ipynb in Jupyter Notebook / Jupyter Lab.  
