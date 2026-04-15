@@ -53,6 +53,7 @@ Limitations
 • The scoring system uses fixed, rule-based thresholds without industry-specific benchmarks.   
 • The dataset is limited to 8 years of annual data, excluding quarterly performance and macroeconomic factors.   
 • The analysis focuses on core financial ratios, excluding advanced metrics like DCF valuation or credit risk modeling.    
+
 Next Steps   
 • Integrate industry benchmark data to contextualize company performance.   
 • Add interactive visualization tools (e.g., Plotly) for dynamic trend exploration.   
